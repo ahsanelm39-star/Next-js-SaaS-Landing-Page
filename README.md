@@ -16,7 +16,7 @@
 ---
 
 ## 🌐 Demo
-🔗 **Live Preview:** [View Demo](https://saas-landing-page-sigma-mauve.vercel.app/#hero)  
+🔗 **Live Preview:** [View Demo](https://saas-landing-page-sigma-mauve.vercel.app/)  
 📦 **Repository:** [GitHub Repo](https://github.com/ahsanelm39-star/Next-js-SaaS-Landing-Page)
 
 ---
