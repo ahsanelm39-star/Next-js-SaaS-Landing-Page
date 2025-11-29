@@ -31,12 +31,12 @@
 
 ## 🛠️ Tech Stack
 | Category | Tools |
-|-----------|--------|
-| Frontend | React.js / Next.js - Type Script |
-| Styling | Tailwind CSS / SCSS |
-| icons | font awesome |
-| Deployment | Vercel |
-
+|---------|--------|
+| **Framework** | React / Next.js  |
+| **Language** | TypeScript |
+| **Styling** | Tailwind CSS |
+| **Icons** | Font Awesome |
+| **Deployment** | Vercel |
 ---
 
 ## 📸 Screenshots
@@ -51,6 +51,47 @@
 Clone the project and install dependencies:
 
 ```bash
-git clone https://github.com/ahsanelm39-star/Next-js-SaaS-Landing-Page.git
+git clone https://github.com/ahsanelm39-star/URBANBUILD.git
 npm install
 npm run dev
+```
+ Open your browser at:
+```text
+http://localhost:3000
+```
+
+---
+
+
+## Build
+Create a production build:
+```bash
+npm run build
+```
+ Then start the production server:
+```bash
+npm start
+```
+Next.js will output the optimized production version inside:
+
+.next/
+
+## 🌐 Deploy on Vercel
+
+Push your project to GitHub.
+
+Go to Vercel Dashboard → Add New Project.
+
+Select the GitHub repository.
+
+Vercel will auto-detect Next.js.
+
+Default settings:
+
+|  Setting | Value |
+|-----------|--------|
+| npm run build | Build Command |
+| npm install | Install Command |
+| .next | Output Directory |
+
+Click Deploy — done!
