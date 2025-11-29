@@ -51,7 +51,7 @@
 Clone the project and install dependencies:
 
 ```bash
-git clone https://github.com/ahsanelm39-star/URBANBUILD.git
+git clone https://github.com/ahsanelm39-star/Next-js-SaaS-Landing-Page.git
 npm install
 npm run dev
 ```
